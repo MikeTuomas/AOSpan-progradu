@@ -1,6 +1,6 @@
 ## Operational span task
 
-Modified tasks from https://github.com/mahiluthra/working_memory_tests that work on [cognition.run](https://cognition.run). 
+Modified tasks from https://github.com/mahiluthra/working_memory_tests to work on [cognition.run](https://cognition.run). 
 
 This repository contains both english and finnish versions of task. Practicing the task and completing the experiment are divided to two different files.
 
